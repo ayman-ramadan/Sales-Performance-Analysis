@@ -56,5 +56,4 @@ The goal of this project is to empower stakeholders with clear insights to impro
 
 ---
 ## Dashboard
-```markdown
-![Alt text](relative/path/to/image.png)
+![image](https://github.com/user-attachments/assets/91250c96-5d73-408f-a4a4-8c070b228516)
