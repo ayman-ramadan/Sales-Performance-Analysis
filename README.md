@@ -40,6 +40,10 @@ The goal of this project is to empower stakeholders with clear insights to impro
   - Total Sales
   - Total Quantity Sold
   - Total Profit
+![image](https://github.com/user-attachments/assets/fb9fa753-961e-49fb-9e92-9ef32d58390b)
+![image](https://github.com/user-attachments/assets/8a10ba82-b444-4d12-9aab-9e18376258f3)
+
+
 
 ---
 
