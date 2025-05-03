@@ -57,3 +57,11 @@ The goal of this project is to empower stakeholders with clear insights to impro
 ---
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/91250c96-5d73-408f-a4a4-8c070b228516)
+![image](https://github.com/user-attachments/assets/850a51e2-3453-4b86-8922-45c58cf95791)
+![image](https://github.com/user-attachments/assets/034ec9d4-0d40-4dd9-ad7f-c25c341510ca)
+![image](https://github.com/user-attachments/assets/9b8a5b0a-1148-46d4-9d28-7224e89ce6eb)
+![image](https://github.com/user-attachments/assets/16d9f60d-af02-4ccc-8132-8793610e948f)
+
+
+
+
